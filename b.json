@@ -1,0 +1,15 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Timbuktu"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-3.0026, 16.7666]
+        }
+      }
+    ]
+  }
