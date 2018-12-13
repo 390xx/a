@@ -1,0 +1,72 @@
+Checkpoint,x,y,Route,PointNo,Accuracy
+Anchorage, 61.2185,-149.8812,SR,1,IditarodSite
+Campbell Airstrip,61.1562,-149.7955,SR,2,IditarodSite
+Willow,61.771615,-149.993809,SR,3,Approx
+Yentna Station,61.7322,-150.6789,SR,4,IditarodSite
+Skwentna,61.9651,-151.1727,SR,5,IditarodSite
+Finger Lake,61.9793,-152.0728,SR,6,IditarodSite
+Rainy Pass,62.0872,-152.7232,SR,7,IditarodSite
+Rohn,62.3031,-153.3788,SR,8,IditarodSite
+Nikolai,63.0133,-154.375,SR,9,IditarodSite
+McGrath,62.9532,-155.5959,SR,10,IditarodSite
+Takotna,62.9886,-156.0641,SR,11,IditarodSite
+Ophir,63.146,-156.5299,SR,12,IditarodSite
+Iditarod,62.5446,-158.0984,SR,13,IditarodSite
+Shageluk,62.655,-159.5323,SR,14,IditarodSite
+Anvik,62.6522,-160.199,SR,15,IditarodSite
+Grayling,62.9054,-160.0642,SR,16,IditarodSite
+Eagle Island,63.5612,-159.5182,SR,17,IditarodSite
+Kaltag,64.3272,-158.7219,SR,18,IditarodSite
+Unalakleet,63.8731,-160.7881,SR,19,IditarodSite
+Shaktoolik,64.3339,-161.1539,SR,20,IditarodSite
+Koyuk,64.9319,-161.1569,SR,21,IditarodSite
+Elim,64.6175,-162.2606,SR,22,IditarodSite
+Golovin,64.563947,-162.99303,SR,23,Approx
+White Mountain,64.6813,-163.4055,SR,24,IditarodSite
+Safety,64.5356,-164.4742,SR,25,IditarodSite
+Nome,64.5011,-165.4063,SR,26,IditarodSite
+Anchorage, 61.2185,-149.8812,FR,1,IditarodSite
+Campbell Airstrip,61.1562,-149.7955,FR,2,IditarodSite
+Fairbanks,64.833767,-147.676556,FR,3,Approx
+Nenana,64.538563,-149.082897,FR,4,Approx
+Manley,65.015584,-150.684809,FR,5,Approx
+Tanana,65.174148,-152.07792,FR,6,Approx
+Ruby,64.719639,-155.506494,FR,7,Approx
+Galena,64.7333,-156.9275,FR,8,IditarodSite
+Huslia,65.698943,-156.333292,FR,9,Approx
+Koyukuk,64.90067,-157.699833,FR,10,Approx
+Nulato,64.7194,-158.1031,FR,11,IditarodSite
+Kaltag,64.3272,-158.7219,FR,12,IditarodSite
+Unalakleet,63.8731,-160.7881,FR,13,IditarodSite
+Shaktoolik,64.3339,-161.1539,FR,14,IditarodSite
+Koyuk,64.9319,-161.1569,FR,15,IditarodSite
+Elim,64.6175,-162.2606,FR,16,IditarodSite
+Golovin,64.563947,-162.99303,FR,17,Approx
+White Mountain,64.6813,-163.4055,FR,18,IditarodSite
+Safety,64.5356,-164.4742,FR,19,IditarodSite
+Nome,64.5011,-165.4063,FR,20,IditarodSite
+Anchorage, 61.2185,-149.8812,NR,1,IditarodSite
+Campbell Airstrip,61.1562,-149.7955,NR,2,IditarodSite
+Willow,61.771615,-149.993809,NR,3,Approx
+Yentna Station,61.7322,-150.6789,NR,4,IditarodSite
+Skwentna,61.9651,-151.1727,NR,5,IditarodSite
+Finger Lake,61.9793,-152.0728,NR,6,IditarodSite
+Rainy Pass,62.0872,-152.7232,NR,7,IditarodSite
+Rohn,62.3031,-153.3788,NR,8,IditarodSite
+Nikolai,63.0133,-154.375,NR,9,IditarodSite
+McGrath,62.9532,-155.5959,NR,10,IditarodSite
+Takotna,62.9886,-156.0641,NR,11,IditarodSite
+Ophir,63.146,-156.5299,NR,12,IditarodSite
+Cripple,63.41,-156.2,NR,13,IditarodSite
+Ruby,64.7394,-155.4869,NR,14,IditarodSite
+Galena,64.7333,-156.9275,NR,15,IditarodSite
+Nulato,64.7194,-158.1031,NR,16,IditarodSite
+Kaltag,64.3272,-158.7219,NR,17,IditarodSite
+Unalakleet,63.8731,-160.7881,NR,18,IditarodSite
+Shaktoolik,64.3339,-161.1539,NR,19,IditarodSite
+Koyuk,64.9319,-161.1569,NR,20,IditarodSite
+Elim,64.6175,-162.2606,NR,21,IditarodSite
+Golovin,64.563947,-162.99303,NR,22,Approx
+White Mountain,64.6813,-163.4055,NR,23,IditarodSite
+Safety,64.5356,-164.4742,NR,24,IditarodSite
+Nome,64.5011,-165.4063,NR,25,IditarodSite
